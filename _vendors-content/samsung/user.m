@@ -1,4 +1,4 @@
----
+alaa---
 manufacturer: samsung
 
 ---
